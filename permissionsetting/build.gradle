@@ -64,5 +64,5 @@ publish {
     publishVersion = projectVersionName
     bintrayUser = bintray_User
     bintrayKey = bintrayApikey
-    dryRun = true
+    dryRun = false
 }
